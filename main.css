@@ -1,0 +1,10 @@
+.hovera{
+    color: white;
+}
+.hovera:hover{
+    background-color: white;
+    color: black;
+}
+.flex-grow {
+    flex-grow: 0;
+}
