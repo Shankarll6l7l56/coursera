@@ -8,3 +8,15 @@
 .flex-grow {
     flex-grow: 0;
 }
+.boxhide:focus{
+    box-shadow: none !important;
+  }
+  .hover-underline:hover {
+    text-decoration: underline;
+  }
+  .hover-text:hover {
+   color: blue !important;
+  }
+  .h1-size{
+    font-size: 50px;
+  }
