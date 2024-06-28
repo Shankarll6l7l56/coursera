@@ -12,7 +12,7 @@
     box-shadow: none !important;
   }
   .hover-underline:hover {
-    text-decoration: underline;
+    text-decoration: underline !important;
   }
   .hover-text:hover {
    color: blue !important;
