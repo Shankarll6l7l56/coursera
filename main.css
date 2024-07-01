@@ -33,3 +33,6 @@
 .card{
   background-color: aliceblue;
 }
+.box-show:hover{
+  box-shadow: 0px 2px 2px 1px rgb(197, 194, 194);
+}
