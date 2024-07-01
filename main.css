@@ -23,3 +23,13 @@
   .p-font-size{
     font-size: 14px !important;
   }
+  .card-hover-scale{
+    transition: .5s;
+  }
+.card-hover-scale:hover{
+  scale: 1.05;
+  transition: .5s;
+}
+.card{
+  background-color: aliceblue;
+}
