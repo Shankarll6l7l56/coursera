@@ -36,3 +36,6 @@
 .box-show:hover{
   box-shadow: 0px 2px 2px 1px rgb(197, 194, 194);
 }
+.hide-underline:hover{
+  text-decoration: none;
+}
